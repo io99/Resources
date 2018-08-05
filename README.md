@@ -1,1 +1,2 @@
-Tutorials and Learning Resources for people who want to get into Data Science as well as AI
+# Python-Tutorials
+Here are some free tutorials to learn Python in Data Science
