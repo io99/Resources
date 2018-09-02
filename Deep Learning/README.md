@@ -6,6 +6,7 @@ Awesome Pytorch Tutorials
 ----------------------------------------
 
 [Basic Pytorch tutorial](https://github.com/yunjey/pytorch-tutorial)
+
 [Pytorch Resources Collection](https://github.com/bharathgs/Awesome-pytorch-list)
 
  
