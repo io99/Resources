@@ -15,4 +15,8 @@ Awesome Pytorch Tutorials
 
 [Pytorch Resources Collection](https://github.com/bharathgs/Awesome-pytorch-list)
 
+Extras
+----------------------------------------
+[Linear Algebra cheatsheet for Deep Learning](https://towardsdatascience.com/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c)
+
  
