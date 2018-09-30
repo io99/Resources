@@ -8,6 +8,8 @@ DEEP LEARNING RESOURCES
 
 [CNN's for visual recognition by Stanford, CS231n](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
+[Deep Learning Crash Course: a series of mini-lectures by Leo Isikdogan on YouTube (2018)](https://www.youtube.com/watch?v=oS5fz_mHVz0&list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07)
+
 Awesome Pytorch Tutorials
 ----------------------------------------
 
