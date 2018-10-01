@@ -12,3 +12,7 @@
   
   7. [Data Science at the Command Line](https://www.datascienceatthecommandline.com/index.html)
   
+  8. [Ultimate Guide to Choosing the right GPU Vendor](https://github.com/binga/cloud-gpus)
+  
+  
+  
