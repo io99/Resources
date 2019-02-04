@@ -14,5 +14,7 @@
   
   8. [Ultimate Guide to Choosing the right GPU Vendor](https://github.com/binga/cloud-gpus)
   
+  9. [Free tech resources for students,dev advocates for use in computer science courses, workshops, and hackathons (https://github.com/Microsoft/computerscience)
+  
   
   
